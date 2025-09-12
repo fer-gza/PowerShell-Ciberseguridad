@@ -1,0 +1,4 @@
+Título,Dominio,Fecha de Brecha,Datos Comprometidos,Verificada,Sensible
+Adobe,adobe.com,2013-10-04,"Email addresses, Password hints, Passwords, Usernames",Sí,No
+Dropbox,dropbox.com,2012-07-01,"Email addresses, Passwords",Sí,No
+LinkedIn,linkedin.com,2012-05-05,"Email addresses, Passwords",Sí,No
